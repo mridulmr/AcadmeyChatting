@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "846372434845",
+    "firebase_url": "https://acadmeychatting-b9942.firebaseio.com",
+    "project_id": "acadmeychatting-b9942",
+    "storage_bucket": "acadmeychatting-b9942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846372434845:android:8539f005f7c6c80e",
+        "android_client_info": {
+          "package_name": "com.example.acadmeychatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846372434845-ltj4nalb06ptfol2jet395cs9s2fi30a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acadmeychatting",
+            "certificate_hash": "36f6f7d1572c090f5fdb2f7c9dec9b5e59b542e8"
+          }
+        },
+        {
+          "client_id": "846372434845-dp0b503ldbungko4n6427odg21kstu1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWBtloE3hPl07ATVwdO6IPTv7PM9A7q2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846372434845-dp0b503ldbungko4n6427odg21kstu1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
